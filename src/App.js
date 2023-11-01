@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <div className="container">
+      gfgjghkhjhlkjkj
      <Navbar/>
       <div className="body flex">body</div>
       <div className="footer">footer</div>
