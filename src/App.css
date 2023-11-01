@@ -1,0 +1,36 @@
+*{
+  font-family: 'Inter', sans-serif;
+  /* this font of the page */
+}
+
+.container{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: beige;
+}
+.navbar{
+  background-color: white;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.link{
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  
+}
+.linkItem{
+  margin-right: 10px;
+}
+.body{
+  background-color: blueviolet;
+  flex: 1;
+}
+.footer{
+  background-color: brown;
+}
